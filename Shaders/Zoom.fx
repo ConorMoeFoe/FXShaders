@@ -2,7 +2,7 @@
 #include "KeyCodes.fxh"
 
 #ifndef ZOOM_KEY
-#define ZOOM_KEY KEY_ALT
+#define ZOOM_KEY MOUSE_RIGHT
 #endif
 
 #ifndef ZOOM_TOGGLE
